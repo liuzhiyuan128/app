@@ -1,0 +1,1 @@
+测试打包node服务需要安装node jxcore 打包 解决了 es6  promise 和 assign 不支持的问题  虽然已经 Nubisa halting active development on JXcore platform 还是尝试了一下 
